@@ -11,7 +11,7 @@
 - Anything related to tech!
 
 ### News
-- Going to work at Apple  Siri team as a software engineer intern in 2021 Summer! Really excited.
+- Joining Apple  Siri team as a software engineer in 2022! Really excited.
 
 <!--
 **hoony-oyh/hoony-oyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
