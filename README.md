@@ -3,12 +3,14 @@
 ### Interest 😍
 - Machine Learning in Large Scale (Asynchronous Decentralized Learning)
 - Fast and Parallel Computing
-- Federated Learning
 
 ### Interested topics
 - How can we actually make money💰 from AI? Is machine learning just a hype?
 - Philosophy related to artificial intelligence (Personally, love Wittgenstein's ideas)
 - Anything related to tech!
+
+### News
+- Joining Apple  next February as a SWE!
 
 <!--
 **hoony-oyh/hoony-oyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
